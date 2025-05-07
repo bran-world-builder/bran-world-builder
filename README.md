@@ -16,6 +16,8 @@ I'm a game developer with a background in computer science and a passion for bui
 
 I specialize in Unity (C#), OpenGL, and shader programming, with a growing body of work in UI/UX, world simulation systems, and interactive storytelling. I especially love collaborating in small teams where every voice matters and creativity thrives.
 
+As someone who worked full-time while completing my CS degree, I focused on building a few deep, original projects where I had the time and ability to direct that energy. This allowed me to develop real-world skills in systems design, teamwork, and creative direction; All things that I bring into every project I take on.
+
 Outside of code, I’m an illustrator and worldbuilder, often creating lore, maps, and concepts for games and D&D campaigns. My current focus is completing a narrative-driven farming game built in Unity — a project aimed for release on Steam.
 
 ### 🧪 Past Projects Include:
