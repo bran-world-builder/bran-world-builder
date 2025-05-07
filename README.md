@@ -25,6 +25,10 @@ Outside of code, I’m an illustrator and worldbuilder, often creating lore, map
 
 If you're into strange worlds, elegant systems, or games that tell stories with atmosphere and texture — let's connect.
 
+### 👨‍💻 Game Development Projects:
+
+- <b>Diving into full game development</b>
+  - [Apocalypse Farm](https://github.com/bran-world-builder/apocalypse-farm)
 
 <!--
 **bran-world-builder/bran-world-builder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
