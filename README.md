@@ -31,6 +31,7 @@ Outside of code, I’m an illustrator and worldbuilder, often creating lore, map
 
 If you're into strange worlds, elegant systems, or games that tell stories with atmosphere and texture — let's connect.
 
+[Wordpress Blog](https://blogs.oregonstate.edu/branthebuilder/)
 
 <!--
 **bran-world-builder/bran-world-builder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
