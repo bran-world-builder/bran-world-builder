@@ -20,15 +20,15 @@ As someone who worked full-time while completing my CS degree, I focused on buil
 
 Outside of code, I’m an illustrator and worldbuilder, often creating lore, maps, and concepts for games and D&D campaigns. My current focus is completing a narrative-driven farming game built in Unity — a project aimed for release on Steam.
 
-### 🧪 Past Projects Include:
-- A hand-crafted toon shader written in GLSL before I knew about Sobel edge detection
-
-If you're into strange worlds, elegant systems, or games that tell stories with atmosphere and texture — let's connect.
-
 ### 👨‍💻 Game Development Projects:
 
 - <b>Diving into full game development</b>
   - [Apocalypse Farm](https://github.com/bran-world-builder/apocalypse-farm)
+
+### 🧪 Past Projects Include:
+- A hand-crafted toon shader written in GLSL before I knew about Sobel edge detection
+
+If you're into strange worlds, elegant systems, or games that tell stories with atmosphere and texture — let's connect.
 
 <!--
 **bran-world-builder/bran-world-builder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
