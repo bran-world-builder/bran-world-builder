@@ -22,13 +22,14 @@ Outside of code, I’m an illustrator and worldbuilder, often creating lore, map
 
 ### 👨‍💻 Game Development Projects:
 
-- <b>Diving into full game development</b>
+- **Diving into full game development**
   - [Apocalypse Farm](https://github.com/bran-world-builder/apocalypse-farm)
 
 ### 🧪 Past Projects Include:
 - A hand-crafted toon shader written in GLSL before I knew about Sobel edge detection
-
+  - [Naive Toon Shader](https://github.com/bran-world-builder/naive-toon-shader)
 If you're into strange worlds, elegant systems, or games that tell stories with atmosphere and texture — let's connect.
+
 
 <!--
 **bran-world-builder/bran-world-builder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
