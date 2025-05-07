@@ -28,6 +28,7 @@ Outside of code, I’m an illustrator and worldbuilder, often creating lore, map
 ### 🧪 Past Projects Include:
 - A hand-crafted toon shader written in GLSL before I knew about Sobel edge detection
   - [Naive Toon Shader](https://github.com/bran-world-builder/naive-toon-shader)
+
 If you're into strange worlds, elegant systems, or games that tell stories with atmosphere and texture — let's connect.
 
 
